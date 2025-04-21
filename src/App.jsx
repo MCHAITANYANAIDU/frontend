@@ -80,6 +80,7 @@ function App() {
         <Route path="/verify-otp" element={<VerifyOtp />} />
         <Route path="/reset-password" element={<ResetPassword />} />
 
+        {/* Protected Routes */}
         <Route
           path="/apply-loan"
           element={

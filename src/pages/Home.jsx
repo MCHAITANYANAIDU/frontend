@@ -805,25 +805,25 @@ function Home() {
               name: "John Doe",
               title: "Freelancer",
               text: "The loan application process was easy, and the EMI options are great!",
-              avatar: "https://via.placeholder.com/150"
+              avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XD7_BX8gEe9eGvr0FktdJ5dYmgxtBDXE9WQN7cwOTea2FNJ-5ls3ckVvZKg4ApJTF3o&usqp=CAU"
             },
             {
               name: "Jane Smith",
               title: "Business Owner",
               text: "I received the loan approval within a day. Excellent service!",
-              avatar: "https://via.placeholder.com/150"
+              avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFrrmFixpUDYm5I0OowuOdQlvP6KwR0uPEw&s"
             },
             {
               name: "Emily Johnson",
               title: "Teacher",
               text: "Customer support was very helpful, and the loan terms were transparent.",
-              avatar: "https://via.placeholder.com/150"
+              avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXHfD3KNJko713-BcPNGIUnEDMgZravhGptw&s"
             },
             {
               name: "Michael Brown",
               title: "Engineer",
               text: "Fast and reliable loan services. Very happy with the experience.",
-              avatar: "https://via.placeholder.com/150"
+              avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PDTsVGsymwRwfuZCaYQ9wTU0F6b3TAWyCA&s"
             }
             ].map((testimonial, index) => (
               <Grid item xs={12} sm={6} md={3} key={index} data-aos="zoom-in">
